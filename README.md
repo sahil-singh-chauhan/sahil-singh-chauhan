@@ -40,4 +40,3 @@ Full-API-based-RAG-System: A lightweight, end-to-end Python RAG API pipeline.
 
 PRODIGY_ML_02: Customer segmentation implementation analyzing unsupervised learning with KMeans algorithms and the Elbow Method.
 
-## 📈 GitHub History
