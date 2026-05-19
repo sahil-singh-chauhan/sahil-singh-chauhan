@@ -25,7 +25,9 @@ focus:
   - Large Language Models (LLMs) & RAG Systems
   - Unsupervised Machine Learning
   - End-to-end video translation pipelines
-💻 Featured Projects
+```
+## 💻 Featured Projects
+
 Anuvaad AI: Multilingual video translation system translating YouTube content into Indian languages using semantic layers and FFmpeg integration.
 
 ev-anomaly-detection: Unsupervised anomaly detection for EV charging session telemetry using a hybrid rules + Isolation Forest pipeline, combining physics-based thresholds with ML.
@@ -38,4 +40,4 @@ Full-API-based-RAG-System: A lightweight, end-to-end Python RAG API pipeline.
 
 PRODIGY_ML_02: Customer segmentation implementation analyzing unsupervised learning with KMeans algorithms and the Elbow Method.
 
-📈 GitHub History
+## 📈 GitHub History
